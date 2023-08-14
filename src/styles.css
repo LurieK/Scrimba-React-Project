@@ -8,6 +8,9 @@ body{
   background-color: #282D35;
   background-image: url(./React-icon-big.png);
   background-repeat: no-repeat;
+  background-position-x: 33rem;
+  background-position-y: 10rem;
+  background-size: 50%;
 }
 
 h4{
@@ -60,7 +63,7 @@ h3{
 }
 
 .list-header{
-
+  margin-top: 60px;
 }
 
 .list-items{
