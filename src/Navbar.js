@@ -1,13 +1,14 @@
 
+import logo from "./React-icon-small.jpg";
 
 function Navbar (){
     return(
-        <nav className="navbar">
+        <nav className="navbar" >
             <div className="logo">
-                <img className="nav-img"/>
-                <h3 className="nav-heading">React</h3>
+                <img className="logo-img" alt="logo" src={logo}/>
+                <h3 className="logo-heading">React Facts</h3>
             </div>
-            <h4 className="nav-subheading">React Course- Project 1</h4>   
+            <h4 className="subheading">React Course- Project 1</h4>   
         </nav>
     )
 }

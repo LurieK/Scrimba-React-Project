@@ -1,4 +1,50 @@
 .App {
-  font-family: sans-serif;
+  font-family: 'Inter', sans-serif;
   text-align: center;
+}
+
+body{
+  margin:0;
+}
+
+h4{
+  font-size: 1rem;
+  font-weight: 400;
+}
+
+h3{
+  font-size: 1.5rem;
+}
+
+.navbar{
+  display: flex;
+  flex-flow: row;
+  justify-content: space-between;
+  align-items: center;
+  font-family: "Inter";
+  background-color: #21222A;
+  padding: 31px 26px;
+  
+}
+
+.logo {
+  display: flex;
+  flex-flow: row;
+  align-items: center;
+
+
+}
+
+.logo-img{
+  width: 50px;
+  margin: 5px;
+}
+
+.logo-heading{
+  color: #00D8FF;
+}
+
+.subheading{
+  color: #DEEBF8;
+  
 }
