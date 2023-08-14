@@ -69,6 +69,15 @@ h3{
 .list-items{
   line-height: 40px;
   font-weight: 400;
+  
+
  
 }
+.list-items li {
+  color: #00D8FF;
 
+  
+}
+.list-items li span {
+  color: white;
+}
