@@ -70,16 +70,12 @@ h3{
   line-height: 40px;
   font-weight: 400;
   font-size: 15px;
-  
-
  
 }
-.list-items li {
-  color: #61DAFB;
-  
 
-  
+.list-items ::marker{
+  color: #61DAFB;
+  font-size: 1.5rem;
+
 }
-.list-items li span {
-  color: white;
-}
+
