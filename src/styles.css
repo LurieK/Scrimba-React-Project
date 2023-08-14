@@ -6,11 +6,11 @@
 body{
   margin:0;
   background-color: #282D35;
-  background-image: url(./React-icon-big.png);
+  background-image: url(./Group.png);
   background-repeat: no-repeat;
-  background-position-x: 26rem;
-  background-position-y: 13rem;
-  background-size: 263px;
+  background-size: 150px;
+  background-position: right;
+  background-position-y: 15rem;
 }
 
 h4{
