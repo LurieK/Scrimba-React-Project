@@ -1,5 +1,5 @@
 
-import logo from "./React-icon-small.jpg";
+import logo from "./React-icon-small.png";
 
 function Navbar (){
     return(

@@ -8,12 +8,12 @@ body{
 }
 
 h4{
-  font-size: 1rem;
+  font-size: 15px;
   font-weight: 400;
 }
 
 h3{
-  font-size: 1.5rem;
+  font-size: 20px;
 }
 
 .navbar{
@@ -36,7 +36,7 @@ h3{
 }
 
 .logo-img{
-  width: 50px;
+  width: 31px;
   margin: 5px;
 }
 
