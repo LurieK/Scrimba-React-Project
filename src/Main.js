@@ -6,5 +6,4 @@ function Main (){
     )
 }
 
-createRoot(document.getElementById('root')).render(<Main/>)
 export default Main

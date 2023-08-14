@@ -6,5 +6,4 @@ function Navbar (){
     )
 }
 
-creatRoot(document.getElementById('root')).render(<Navbar/>)
 export default Navbar
