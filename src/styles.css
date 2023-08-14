@@ -69,13 +69,14 @@ h3{
 .list-items{
   line-height: 40px;
   font-weight: 400;
+  font-size: 15px;
   
 
  
 }
 .list-items li {
   color: #61DAFB;
-  font-size: 20px;
+  
 
   
 }
