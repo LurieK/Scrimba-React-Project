@@ -1,4 +1,81 @@
 .App {
-  font-family: sans-serif;
+  font-family: 'Inter', sans-serif;
   text-align: center;
 }
+
+body{
+  margin:0;
+  background-color: #282D35;
+  background-image: url(./Group.png);
+  background-repeat: no-repeat;
+  background-size: 150px;
+  background-position: right;
+  background-position-y: 15rem;
+}
+
+h4{
+  font-size: 15px;
+  font-weight: 400;
+}
+
+h3{
+  font-size: 20px;
+}
+
+.navbar{
+  display: flex;
+  flex-flow: row;
+  justify-content: space-between;
+  align-items: center;
+  font-family: "Inter";
+  background-color: #21222A;
+  padding: 31px 26px;
+  
+}
+
+.logo {
+  display: flex;
+  flex-flow: row;
+  align-items: center;
+
+
+}
+
+.logo-img{
+  width: 31px;
+  margin-right: 7px;
+}
+
+.logo-heading{
+  color: #00D8FF;
+}
+
+.subheading{
+  color: #DEEBF8;
+  
+}
+
+.main-content{
+  font-family: "Inter";
+  color: white;
+  margin-left: 27px;
+  
+}
+
+.list-header{
+  margin-top: 60px;
+}
+
+.list-items{
+  line-height: 40px;
+  font-weight: 400;
+  font-size: 15px;
+ 
+}
+
+.list-items ::marker{
+  color: #61DAFB;
+  font-size: 1.5rem;
+
+}
+
