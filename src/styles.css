@@ -5,6 +5,14 @@
 
 body{
   margin:0;
+  background-color: #282D35;
+  background-image: url(./React-icon-small.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+
+
+ 
 }
 
 h4{
@@ -48,3 +56,21 @@ h3{
   color: #DEEBF8;
   
 }
+
+.main-content{
+  font-family: "Inter";
+  color: white;
+  margin-left: 27px;
+  
+}
+
+.list-header{
+
+}
+
+.list-items{
+  line-height: 40px;
+  font-weight: 400;
+ 
+}
+
