@@ -1,2 +1,2 @@
 # Scrimba-React-Project
-Created with CodeSandbox
+Description of project coming soon! :)
